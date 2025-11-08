@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SaraPasolini/API-com-NodeJs/issues"
   },
   "homepage": "https://github.com/SaraPasolini/API-com-NodeJs#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mssql": "^12.1.0"
   }
 }
