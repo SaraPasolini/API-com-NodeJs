@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SaraPasolini/API-com-NodeJs/issues"
   },
-  "homepage": "https://github.com/SaraPasolini/API-com-NodeJs#readme"
+  "homepage": "https://github.com/SaraPasolini/API-com-NodeJs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
