@@ -12,7 +12,6 @@ async function carregarProdutos() {
     container.innerHTML += `
       <div class="col-md-3">
         <div class="card shadow-sm h-100">
-          <img src="https://via.placeholder.com/200x150?text=${produto.NomeProduto}" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title">${produto.NomeProduto}</h5>
             <p class="text-success fw-bold">R$ ${produto.Preço.toFixed(2)}</p>

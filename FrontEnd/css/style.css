@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://marketplace.canva.com/EAGOXiKLMVA/1/0/1600w/canva-pink-and-white-watercolor-illustration-pattern-desktop-wallpaper-Fu25SPEYnAk.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.btn {
+  background-color: #ff69b4; 
+  color: white;
+  border-color: deeppink;
+
+}
+
+.btn:hover {
+  background-color: #ff1493; 
+  border-color: rgb(232, 165, 201);
+}
+
+.bg-primary
+{
+  background-color: #ff69b4 !important;
+}
+
+.fw-bold
+{
+  color: #ff1493 !important;
+}
