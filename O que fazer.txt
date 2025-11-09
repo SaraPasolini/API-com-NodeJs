@@ -7,6 +7,7 @@ Descrição;
 Quantidade em estoque;
 Avaliação; e
 Categoria.
+
 Utilize as ações do CRUD para criar, ler, editar e deletar dados do banco SqlServer Express. Desta forma, a sua API deve ter rotas para:
 
 Criação de dados com Post;
@@ -15,3 +16,9 @@ Leitura de dados por código do produto com Get;
 Leitura de dados por categoria com Get;
 Atualização de informações com Put ou Patch; e
 Exclusão de elementos com Delete.
+
+
+
+saraalmeida3606_db_user
+
+z33dJkdHqxlWFFnR
