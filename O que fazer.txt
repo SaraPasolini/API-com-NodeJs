@@ -22,3 +22,20 @@ Exclusão de elementos com Delete.
 saraalmeida3606_db_user
 
 z33dJkdHqxlWFFnR
+
+
+ Você desenvolverá um serviço Web similar ao desenvolvido nos vídeos, com duas páginas. A primeira página será a home e a segunda a tela de detalhes para apresentar:
+
+Na página principal (Home)
+
+A coleção dos últimos 12 itens salvos no banco de dados com imagem e preço;
+Um botão em cada item que possibilite ir para uma nova página com os detalhes do produto; e
+Um botão com um modal (ou nova página) para acrescentar novos itens de forma dinâmica.
+Na página de detalhes
+
+Apresentar as todas as informações salvas do produto selecionado;
+Um botão com um modal (ou nova página)  para editar o item; e 
+Um botão para excluir o item com solicitação de confirmação de exclusão.
+É recomendável utilizar Bootstrap com javascript e css para criar seus próprios estilos, mas, caso tenha mais facilidade, você poderá utilizar somente html (puro), css e javascript.
+
+Para a integração, você utilizará somente os comandos fetch discutidos nos vídeos.

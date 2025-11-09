@@ -1,11 +1,14 @@
 import express from "express";
-
+import cors from "cors";
 import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
-
 const app = express();
+
+app.use(cors());
 app.use(express.json());
+app.use(express.static("FrontEnd"));
+
 
 // Listas todos os produtos
 app.get("/produtos", async (req, res) => {

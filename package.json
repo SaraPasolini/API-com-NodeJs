@@ -20,6 +20,7 @@
   "homepage": "https://github.com/SaraPasolini/API-com-NodeJs#readme",
   "dependencies": {
     "@prisma/client": "^6.19.0",
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "prisma": "^6.19.0"
   }
